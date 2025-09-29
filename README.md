@@ -18,3 +18,5 @@ git clone https://github.com/YOUR_USERNAME/job-scraper.git
 cd job-scraper
 pip install -r requirements.txt
 >>>>>>> d290717fe8286f4fc87655a0edcde1fc82f2f7d3
+
+Note: Sign-in Required
