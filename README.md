@@ -5,6 +5,7 @@ A Python scraper for collecting AI, Machine Learning, and Data Science job posti
 # Iranian Job Market Scraper (Jobinja)
 
 A Python scraper to collect job postings (AI/ML/Data Science related) from [Jobinja.ir](https://jobinja.ir).
+Note: Sign-in Required
 
 ## Features
 - Scrapes job postings by keyword (e.g. "هوش مصنوعی", "data science").
@@ -19,4 +20,3 @@ cd job-scraper
 pip install -r requirements.txt
 >>>>>>> d290717fe8286f4fc87655a0edcde1fc82f2f7d3
 
-Note: Sign-in Required
