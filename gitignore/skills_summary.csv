@@ -1,0 +1,101 @@
+﻿skill,count,percentage
+python,41,74.5
+pytorch,30,54.5
+tensorflow,26,47.3
+nlp,23,41.8
+engineering,17,30.9
+scikit-learn,16,29.1
+tensorflow pytorch,16,29.1
+pipelines,15,27.3
+retrieval,14,25.5
+docker,12,21.8
+llm,12,21.8
+mlops,12,21.8
+sql,12,21.8
+search,11,20.0
+computer,10,18.2
+pandas,10,18.2
+vision,10,18.2
+about,9,16.4
+engineer,9,16.4
+rag,9,16.4
+agents,8,14.5
+apis,8,14.5
+computer vision,8,14.5
+databases,8,14.5
+implement,8,14.5
+llms,8,14.5
+numpy,8,14.5
+processing,8,14.5
+pytorch tensorflow,8,14.5
+research,8,14.5
+software,8,14.5
+technical,8,14.5
+vector,8,14.5
+ai ai,7,12.7
+aws,7,12.7
+deployment,7,12.7
+e.g,7,12.7
+git,7,12.7
+into,7,12.7
+maintain,7,12.7
+management,7,12.7
+product,7,12.7
+prompt,7,12.7
+scalable,7,12.7
+solutions,7,12.7
+spark,7,12.7
+training,7,12.7
+agentic,6,10.9
+ai agents,6,10.9
+algorithms,6,10.9
+ci cd,6,10.9
+code,6,10.9
+embeddings,6,10.9
+engineers,6,10.9
+english,6,10.9
+evaluate,6,10.9
+including,6,10.9
+langchain,6,10.9
+optimization,6,10.9
+practices,6,10.9
+programming,6,10.9
+quality,6,10.9
+r,6,10.9
+requirements,6,10.9
+services,6,10.9
+vector databases,6,10.9
+workflows,6,10.9
+agent,5,9.1
+api,5,9.1
+applications,5,9.1
+azure,5,9.1
+business,5,9.1
+cloud,5,9.1
+complex,5,9.1
+environment,5,9.1
+evaluation,5,9.1
+fastapi,5,9.1
+focus,5,9.1
+gpu,5,9.1
+image,5,9.1
+information,5,9.1
+infrastructure,5,9.1
+keras,5,9.1
+opencv,5,9.1
+optimize,5,9.1
+pandas numpy,5,9.1
+performance,5,9.1
+python tensorflow,5,9.1
+python tensorflow pytorch,5,9.1
+rag pipelines,5,9.1
+senior,5,9.1
+software engineering,5,9.1
+structured,5,9.1
+a focus,4,7.3
+aws azure,4,7.3
+best,4,7.3
+classification,4,7.3
+deploy,4,7.3
+end-to-end,4,7.3
+ensure,4,7.3
