@@ -1,0 +1,75 @@
+
+# Ignore local data folder
+sources/
+# -------------------------------
+# Python bytecode / cache
+# -------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------------
+# Virtual environments
+# -------------------------------
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# -------------------------------
+# Environment / secret files
+# -------------------------------
+.env
+credentials.json   # Google Sheets API credentials
+
+# -------------------------------
+# Selenium / WebDriver binaries
+# -------------------------------
+chromedriver*
+geckodriver*
+IEDriverServer*
+
+# -------------------------------
+# Packaging / distribution
+# -------------------------------
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# -------------------------------
+# Test / coverage
+# -------------------------------
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# -------------------------------
+# Jupyter Notebooks
+# -------------------------------
+.ipynb_checkpoints
+
+# -------------------------------
+# IDE / editor
+# -------------------------------
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# -------------------------------
+# OS files
+# -------------------------------
+.DS_Store
+Thumbs.db
