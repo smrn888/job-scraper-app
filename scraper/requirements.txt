@@ -1,8 +1,0 @@
-packages used for this app :  
-selenium
-beautifulsoup4
-pandas
-gspread
-oauth2client
-
-Please note that this website reqiures sign-in and it couldnt scrap the data without registration - Therfore a hold function have placed to let you register and then it will start scanning the site and extract them.
