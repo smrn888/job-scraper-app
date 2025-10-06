@@ -1,11 +1,13 @@
 <<<<<<< HEAD
 # job-scraper-app
 A Python scraper for collecting AI, Machine Learning, and Data Science job postings from Jobinja & Jobvision-  Scraper to extract AI/ML job details from Job websites and save them to CSV or Google Sheets for further data processing analysis.
+
 =======
 # Iranian Job Market Scraper (Jobinja)
 
 A Python scraper to collect job postings (AI/ML/Data Science related) from [Jobinja.ir](https://jobinja.ir).
 Note: Account required  - Automatically sign-in
+
 
 ## Features
 - Automatically entering email and password
